@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=ClienteleRegistry
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=customerList
+comment2.target=void\ processOrders(java.util.List)
+comment3.params=customerList\ queue\ counterName\ processingInfo
+comment3.target=void\ processCounterGUI(java.util.List,\ java.util.Queue,\ java.lang.String,\ java.lang.StringBuilder)
+numComments=4

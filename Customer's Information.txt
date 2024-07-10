@@ -1,0 +1,31 @@
+R10|Vincent van Gogh|4|001|Sushi Roll|9.00|2|2024-07-10T12:30|002|Tempura Roll|10.00|1|2024-07-10T12:35
+R11|Pablo Picasso|8|003|Sashimi Platter|18.00|1|2024-07-10T12:45
+R12|Leonardo|3|004|Chicken Teriyaki Roll|12.50|1|2024-07-10T13:00
+R13|Frida Kahlo|6|005|Cheese Roll|16.00|1|2024-07-10T13:15|006|Avocado Roll|7.00|2|2024-07-10T13:20|007|Salmon Roll|10.00|1|2024-07-10T13:25|008|Tuna Roll|12.00|1|2024-07-10T13:30|009|Dragon Roll|14.00|1|2024-07-10T13:35
+R14|Claude Monet|2|010|Fish and Chips|20.00|1|2024-07-10T13:30|011|California Roll|8.00|1|2024-07-10T13:40
+R15|Sarah Lee|5|012|Beef Burger|15.00|2|2024-07-10T13:45
+R16|Georgia O'Keeffe|1|013|Pad Thai|14.00|1|2024-07-10T14:00|014|Fried Rice|10.00|1|2024-07-10T14:15|015|Miso Soup|5.00|2|2024-07-10T14:20
+R17|Lisa Chen|7|016|Fried Rice|10.00|1|2024-07-10T14:15
+R18|Kevin Davis|9|017|Grilled Chicken Salad|13.50|1|2024-07-10T14:30
+R19|Amanda Wilson|10|018|Margherita Pizza|15.00|1|2024-07-10T14:45
+R20|Brian Taylor|3|019|Beef Stew|19.00|1|2024-07-10T15:00
+R21|Jessica Miller|6|020|Tuna Sandwich|11.50|1|2024-07-10T15:15
+R22|Andrew Scott|4|021|Chicken Wings|8.00|2|2024-07-10T15:30|022|Spring Rolls|7.00|1|2024-07-10T15:35
+R23|Samantha White|8|023|Caesar Salad|9.50|1|2024-07-10T15:45
+R24|Robert Green|2|024|Veggie Burger|12.00|1|2024-07-10T16:00|025|Spicy Tuna Roll|9.00|1|2024-07-10T16:10
+R25|Olivia Hall|5|026|Mushroom Risotto|17.50|1|2024-07-10T16:15
+R26|Daniel Clark|1|027|Shrimp Pasta|15.00|1|2024-07-10T16:30|028|Sushi Roll|9.00|1|2024-07-10T16:40|029|Tempura Roll|10.00|1|2024-07-10T16:50
+R27|Maria Martinez|7|030|Miso Soup|6.00|2|2024-07-10T16:45|031|Edamame|5.00|1|2024-07-10T16:50
+R28|William Rodriguez|9|032|Chicken Quesadilla|13.00|1|2024-07-10T17:00
+R29|Sophia Garcia|10|033|Steak Frites|22.00|1|2024-07-10T17:15
+R30|Ethan Perez|3|034|Spaghetti Bolognese|14.50|1|2024-07-10T17:30|035|Sushi Roll|9.00|1|2024-07-10T17:35|036|Tempura Roll|10.00|1|2024-07-10T17:40|037|Dragon Roll|14.00|1|2024-07-10T17:45|038|Salmon Roll|10.00|1|2024-07-10T17:50
+R31|Mia Flores|6|039|Sushi Nigiri|10.00|3|2024-07-10T17:45|040|Tuna Roll|12.00|1|2024-07-10T17:50|041|Avocado Roll|7.00|1|2024-07-10T17:55
+R32|Jason Lee|4|042|Chicken Teriyaki|11.00|1|2024-07-10T18:00|043|Tempura Roll|10.00|1|2024-07-10T18:10
+R33|Isabella Moore|8|044|Tempura Udon|16.50|1|2024-07-10T18:15
+R34|Jacob Brown|2|045|BBQ Ribs|21.00|1|2024-07-10T18:30
+R35|Chloe Wilson|5|046|Seafood Paella|19.00|1|2024-07-10T18:45
+R36|Lucas Taylor|1|047|Greek Salad|8.50|2|2024-07-10T19:00|048|Avocado Roll|7.00|1|2024-07-10T19:10
+R37|Natalie Clark|7|049|Spring Rolls|7.00|1|2024-07-10T19:15
+R38|Ethan Rivera|9|050|Beef Tacos|12.00|1|2024-07-10T19:30
+R39|Grace Hernandez|10|051|Lobster Bisque|14.00|1|2024-07-10T19:45|052|Sushi Roll|9.00|1|2024-07-10T19:50
+R40|Jane Doe|6|O006|Spaghetti|12.99|2|2024-07-10T12:45:00|O007|Salad|5.99|1|2024-07-10T12:45:00|O008|Soda|2.99|1|2024-07-10T12:45:00|O009|Breadsticks|4.99|1|2024-07-10T12:45:00|O010|Soup|6.99|1|2024-07-10T12:45:00|O011|Dessert|8.99|1|2024-07-10T12:45:00
